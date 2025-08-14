@@ -37,19 +37,16 @@ pip install opencv-python mediapipe pyautogui
 ## Requirements
 
 - Python 3.8+
-
 - OpenCV
-- 
 - MediaPipe
-- 
 - PyAutoGUI (for simulating key presses)
 
 
 ##Future Improvements :
-Add gesture calibration for better accuracy
-Support custom gesture mappings
-Create a simple GUI for gesture setup
-Optimize for lower CPU usage
+- Add gesture calibration for better accuracy
+- Support custom gesture mappings
+- Create a simple GUI for gesture setup
+- Optimize for lower CPU usage
 
 License
 This project is licensed under the MIT License
