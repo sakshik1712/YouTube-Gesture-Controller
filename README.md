@@ -47,6 +47,7 @@ This project uses your webcam to detect gestures and maps them to YouTube player
 
 ## License
 - This project is licensed under the MIT License
-Author
+
+## Author
 - Developed by Sakshi K
 - Passionate about AI, Computer Vision, and building real-time interactive apps.
