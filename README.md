@@ -49,8 +49,8 @@ pip install opencv-python mediapipe pyautogui
 - Optimize for lower CPU usage
 
 License
-This project is licensed under the MIT License
+- This project is licensed under the MIT License
 
 Author
-Developed by Sakshi K
-Passionate about AI, Computer Vision, and building real-time interactive apps.
+- Developed by Sakshi K
+- Passionate about AI, Computer Vision, and building real-time interactive apps.
