@@ -17,12 +17,9 @@ This project uses your webcam to detect gestures and maps them to YouTube player
 
 ---
 
----
-
 ## Installation & Setup
 
-### 1️Clone the Repository
-```bash
+## Clone the Repository
 git clone https://github.com/sakshik1712/YouTube-Gesture-Controller.git
 cd YouTube-Gesture-Controller
 
@@ -34,7 +31,7 @@ pip install -r requirements.txt
 
 python main.py
 
-Requirements
+## Requirements
 
 Python 3.8+
 
@@ -48,20 +45,15 @@ Install them manually if needed:
 
 pip install opencv-python mediapipe pyautogui
 
-Future Improvements
-
+##Future Improvements :
 Add gesture calibration for better accuracy
-
 Support custom gesture mappings
-
 Create a simple GUI for gesture setup
-
 Optimize for lower CPU usage
-License
 
+License
 This project is licensed under the MIT License
 
 Author
-
 Developed by Sakshi K
-🚀 Passionate about AI, Computer Vision, and building real-time interactive apps.
+Passionate about AI, Computer Vision, and building real-time interactive apps.
