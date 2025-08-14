@@ -42,7 +42,7 @@ pip install opencv-python mediapipe pyautogui
 - PyAutoGUI (for simulating key presses)
 
 
-##Future Improvements :
+## Future Improvements :
 - Add gesture calibration for better accuracy
 - Support custom gesture mappings
 - Create a simple GUI for gesture setup
