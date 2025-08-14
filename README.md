@@ -20,19 +20,16 @@ This project uses your webcam to detect gestures and maps them to YouTube player
 ## Installation & Setup
 
 ## Clone the Repository
-git clone https://github.com/sakshik1712/YouTube-Gesture-Controller.git
-cd YouTube-Gesture-Controller
-
-python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
-
-pip install -r requirements.txt
-
-python main.py
-
-Install them manually if needed:
-pip install opencv-python mediapipe pyautogui
+    git clone https://github.com/sakshik1712/YouTube-Gesture-Controller.git
+    cd YouTube-Gesture-Controller
+    python -m venv venv
+    source venv/bin/activate   # On Linux/Mac
+    venv\Scripts\activate      # On Windows
+    pip install -r requirements.txt
+    python main.py
+    
+## Install them manually if needed:
+    pip install opencv-python mediapipe pyautogui
 
 ## Requirements
 
