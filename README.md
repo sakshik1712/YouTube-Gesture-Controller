@@ -8,10 +8,10 @@ This project uses your webcam to detect gestures and maps them to YouTube player
 ## Features
 - ✋ Real-time **hand tracking** with [MediaPipe](https://developers.google.com/mediapipe)
 - 🎮 Gesture-based controls for YouTube:
-  - ✊ Fist → **Pause / Play**
-  - 👉 Pointing → **Skip Next**
-  - ✌️ Two fingers → **Rewind**
-  - 🖐️ Open palm → **Volume Up / Down**
+  -  **Pause / Play**
+  -  **Skip Next**
+  -  **Rewind**
+  -  **Volume Up / Down**
 - 🖥️ Works on any computer with a webcam
 - ⚡ Built with **Python + OpenCV**
 
