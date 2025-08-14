@@ -36,10 +36,13 @@ pip install opencv-python mediapipe pyautogui
 
 ## Requirements
 
-Python 3.8+
-OpenCV
-MediaPipe
-PyAutoGUI (for simulating key presses)
+- Python 3.8+
+
+- OpenCV
+- 
+- MediaPipe
+- 
+- PyAutoGUI (for simulating key presses)
 
 
 ##Future Improvements :
