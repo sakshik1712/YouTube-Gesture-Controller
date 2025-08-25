@@ -37,13 +37,6 @@ This project uses your webcam to detect gestures and maps them to YouTube player
 - MediaPipe
 - PyAutoGUI (for simulating key presses)
 
-
-## Future Improvements 
-- Add gesture calibration for better accuracy
-- Support custom gesture mappings
-- Create a simple GUI for gesture setup
-- Optimize for lower CPU usage
-
 ## License
 - This project is licensed under the MIT License
 
